@@ -2,6 +2,9 @@
 
 AWS Application Migration Service (AWS MGN) is the primary service recommended for lift-and-shift migrations to AWS. It allows you to migrate existing, virtual, and cloud-based servers to AWS with minimal changes and downtime. AWS MGN provides real-time block-level replication and automated testing, ensuring a smooth and efficient migration process while minimizing disruption to your operations.
 
+### What is mean by Lift-and-Shift Migration ?
+AWS MGN supports lift-and-shift migrations, allowing you to move applications without requiring changes to the application, its architecture, or associated data.
+
 ## How it works
 
 ### Install AWS Replication Agent:
